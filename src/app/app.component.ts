@@ -6,5 +6,13 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'bases';
+ 
+
+  //hacer un metodo para colaculos o cosas mas complicadas
+  // sumar(){
+  //   this.numero+=1;
+  // }
+  // restar(){
+  //   this.numero-=1;
+  // }
 }
